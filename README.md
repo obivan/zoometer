@@ -3,6 +3,7 @@ zoometer - simple Telegram rating bot
 Reply to any chat message with `+` or `-` to affect the user's rating.
 
 ========
+
 To install (from within the package directory):
 	`$ raco pkg install`
 To uninstall:
